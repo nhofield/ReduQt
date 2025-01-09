@@ -1,0 +1,35 @@
+[program]
+root=/home/noah/runRandom/Experiments/Experiment2/Mutants/var_q5_00_R.py
+num_qubit=5
+inputID=0,1,2,3,4
+outputID=0,1,2,3,4
+
+[program_specification_category]
+ps_category=full
+
+[quito_configuration]
+coverage_criterion=IC
+K=80
+M=1
+BUDGET=6000
+confidence_level=0.01
+statistical_test=chi-square test
+
+[reduqt_parameters]
+Basis=identity
+Mutation=0
+original=True
+depth=11
+
+[state_vector]
+[0j, 0j, (-0+0j), 0j, 0j, 0j, 0j, 0j, (0.3535533905932737+0j), (0.35355339059327373+0j), (0.35355339059327373-8.659560562354932e-17j), (0.3535533905932738+0j), 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, (0.35355339059327373+0j), (0.3535533905932738+0j), (-0.3535533905932738+4.329780281177467e-17j), (0.35355339059327384+0j), 0j, 0j, 0j, 0j]
+
+[program_specification]
+00000,01000=0.12499999999999994
+00000,01001=0.12499999999999997
+00000,01010=0.12499999999999997
+00000,01011=0.12500000000000003
+00000,11000=0.12499999999999997
+00000,11001=0.12500000000000003
+00000,11010=0.12500000000000003
+00000,11011=0.12500000000000006

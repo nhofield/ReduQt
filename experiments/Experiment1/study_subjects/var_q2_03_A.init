@@ -1,0 +1,30 @@
+[program]
+root=/home/noah/runFactored/Experiments/Experiment2/Mutants/var_q2_03_R_A.py
+num_qubit=2
+inputID=0,1
+outputID=0,1
+
+[program_specification_category]
+ps_category=full
+
+[quito_configuration]
+coverage_criterion=IC
+K=30
+M=1
+BUDGET=6000
+confidence_level=0.01
+statistical_test=chi-square test
+
+[reduqt_parameters]
+Basis=h,i
+Mutation=0
+original=False
+depth=8
+
+[state_vector]
+[(0.19134171618254497+0.46193976625564337j), (0.4619397662556434-0.19134171618254486j), (-1.1102230246251565e-16+0j), (-0.6532814824381882-0.27059805007309856j)]
+
+[program_specification]
+11,00=0.25
+11,01=0.2500000000000001
+11,11=0.4999999999999999

@@ -1,0 +1,46 @@
+\begin{tabular}{lllllllll}
+\toprule
+\textbf{ID} & \textbf{Category} & \textbf{\#Qubits} & \textbf{Depth} & \textbf{Factoring [\%]} &     \textbf{Random [\%]} & \textbf{p-value} & $\mathbf{\hat{A}}_{12}$ & \textbf{Magnitude} \\
+\midrule
+          0 &             qwalk &                 3 &             14 &          50.0 $\pm$ 0.0 &          43.0 $\pm$ 17.4 &          1.1e-04 &                    0.57 &                (N) \\
+ \textbf{1} &    \textbf{qwalk} &        \textbf{3} &    \textbf{21} & \textbf{50.0 $\pm$ 0.0} & \textbf{34.0 $\pm$ 23.4} & \textbf{7.5e-10} &           \textbf{0.66} &       \textbf{(S)} \\
+          2 &             qwalk &                 3 &             28 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+          3 &             qwalk &                 3 &             35 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+          4 &             qwalk &                 3 &             42 &          50.0 $\pm$ 0.0 &          46.5 $\pm$ 12.8 &           0.0073 &                   0.535 &                (N) \\
+ \textbf{5} &    \textbf{qwalk} &        \textbf{3} &    \textbf{49} & \textbf{50.0 $\pm$ 0.0} & \textbf{30.0 $\pm$ 24.6} & \textbf{1.8e-12} &            \textbf{0.7} &       \textbf{(M)} \\
+          6 &             qwalk &                 3 &             56 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+          7 &             qwalk &                 3 &             63 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+          8 &             qwalk &                 3 &             70 &          50.0 $\pm$ 0.0 &          46.5 $\pm$ 12.8 &           0.0073 &                   0.535 &                (N) \\
+ \textbf{9} &    \textbf{qwalk} &        \textbf{3} &    \textbf{77} & \textbf{50.0 $\pm$ 0.0} & \textbf{31.0 $\pm$ 24.4} & \textbf{8.5e-12} &           \textbf{0.69} &       \textbf{(M)} \\
+         10 &             qwalk &                 3 &             84 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+         11 &             qwalk &                 3 &             91 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+         12 &             qwalk &                 3 &             98 &          50.0 $\pm$ 0.0 &          45.5 $\pm$ 14.4 &          0.00222 &                   0.545 &                (N) \\
+         13 &             qwalk &                 4 &             18 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+\textbf{14} &    \textbf{qwalk} &        \textbf{4} &    \textbf{27} & \textbf{20.0 $\pm$ 0.0} &  \textbf{15.8 $\pm$ 8.2} & \textbf{1.4e-06} &          \textbf{0.605} &       \textbf{(S)} \\
+         15 &             qwalk &                 4 &             36 &          50.0 $\pm$ 0.0 &           49.2 $\pm$ 3.0 &          0.01326 &                    0.53 &                (N) \\
+         16 &             qwalk &                 4 &             45 &          20.0 $\pm$ 0.0 &           18.2 $\pm$ 5.8 &          0.00222 &                   0.545 &                (N) \\
+         17 &             qwalk &                 4 &             54 &          50.0 $\pm$ 0.0 &           49.6 $\pm$ 2.1 &          0.08274 &                   0.515 &                (N) \\
+         18 &             qwalk &                 4 &             63 &          20.0 $\pm$ 0.0 &           18.8 $\pm$ 4.8 &          0.01326 &                    0.53 &                (N) \\
+         19 &             qwalk &                 4 &             72 &          50.0 $\pm$ 0.0 &           48.6 $\pm$ 3.9 &          6.7e-04 &                   0.555 &                (N) \\
+         20 &             qwalk &                 4 &             81 &          20.0 $\pm$ 0.0 &           17.6 $\pm$ 6.5 &          3.7e-04 &                    0.56 &                (N) \\
+\textbf{21} &    \textbf{qwalk} &        \textbf{4} &    \textbf{90} & \textbf{50.0 $\pm$ 0.0} & \textbf{25.5 $\pm$ 25.1} & \textbf{9.4e-16} &          \textbf{0.745} &       \textbf{(L)} \\
+\textbf{22} &    \textbf{qwalk} &        \textbf{4} &    \textbf{99} & \textbf{75.0 $\pm$ 0.0} &  \textbf{71.0 $\pm$ 9.2} & \textbf{3.2e-05} &           \textbf{0.58} &       \textbf{(S)} \\
+\textbf{23} &    \textbf{qwalk} &        \textbf{4} &   \textbf{108} & \textbf{50.0 $\pm$ 0.0} & \textbf{37.0 $\pm$ 22.0} & \textbf{5.0e-08} &           \textbf{0.63} &       \textbf{(S)} \\
+         24 &             qwalk &                 4 &            117 &          50.0 $\pm$ 0.0 &          47.5 $\pm$ 11.0 &          0.02417 &                   0.525 &                (N) \\
+         25 &             qwalk &                 4 &            126 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+         26 &             qwalk &                 5 &             22 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+         27 &             qwalk &                 5 &             33 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+         28 &             qwalk &                 5 &             44 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+         29 &             qwalk &                 5 &             55 &           0.0 $\pm$ 0.0 &            0.0 $\pm$ 0.0 &              1.0 &                     0.5 &                (N) \\
+\textbf{30} &    \textbf{qwalk} &        \textbf{5} &    \textbf{66} &  \textbf{0.0 $\pm$ 0.0} &   \textbf{2.7 $\pm$ 3.9} & \textbf{7.5e-10} &           \textbf{0.34} &       \textbf{(S)} \\
+\textbf{31} &    \textbf{qwalk} &        \textbf{5} &    \textbf{77} & \textbf{30.8 $\pm$ 0.0} &  \textbf{10.3 $\pm$ 5.0} & \textbf{5.6e-40} &            \textbf{1.0} &       \textbf{(L)} \\
+\textbf{32} &    \textbf{qwalk} &        \textbf{5} &    \textbf{88} & \textbf{37.5 $\pm$ 0.0} &  \textbf{32.6 $\pm$ 8.7} & \textbf{1.0e-07} &          \textbf{0.625} &       \textbf{(S)} \\
+\textbf{33} &    \textbf{qwalk} &        \textbf{5} &    \textbf{99} & \textbf{30.8 $\pm$ 0.0} & \textbf{18.5 $\pm$ 13.7} & \textbf{1.6e-18} &          \textbf{0.785} &       \textbf{(L)} \\
+\textbf{34} &    \textbf{qwalk} &        \textbf{5} &   \textbf{110} & \textbf{50.0 $\pm$ 0.0} & \textbf{36.6 $\pm$ 15.7} & \textbf{1.8e-15} &          \textbf{0.745} &       \textbf{(L)} \\
+\textbf{35} &    \textbf{qwalk} &        \textbf{5} &   \textbf{121} & \textbf{33.3 $\pm$ 0.0} &  \textbf{27.5 $\pm$ 6.7} & \textbf{6.9e-14} &           \textbf{0.72} &       \textbf{(M)} \\
+\textbf{36} &    \textbf{qwalk} &        \textbf{5} &   \textbf{132} & \textbf{50.0 $\pm$ 0.0} & \textbf{40.3 $\pm$ 10.3} & \textbf{3.5e-15} &           \textbf{0.74} &       \textbf{(L)} \\
+\textbf{37} &    \textbf{qwalk} &        \textbf{5} &   \textbf{143} &  \textbf{0.0 $\pm$ 0.0} &   \textbf{5.7 $\pm$ 7.0} & \textbf{1.8e-12} &            \textbf{0.3} &       \textbf{(M)} \\
+\textbf{38} &    \textbf{qwalk} &        \textbf{5} &   \textbf{154} & \textbf{31.2 $\pm$ 0.0} &  \textbf{26.6 $\pm$ 6.0} & \textbf{1.0e-16} &           \textbf{0.76} &       \textbf{(L)} \\
+\bottomrule
+\end{tabular}
+

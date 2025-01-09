@@ -1,0 +1,31 @@
+[program]
+root=/home/noah/runFactored/Experiments/Experiment2/Mutants/qwalk_q4_12_R_A.py
+num_qubit=4
+inputID=0,1,2,3
+outputID=0,1,2,3
+
+[program_specification_category]
+ps_category=full
+
+[quito_configuration]
+coverage_criterion=IC
+K=40
+M=1
+BUDGET=6000
+confidence_level=0.01
+statistical_test=chi-square test
+
+[reduqt_parameters]
+Basis=i,i,i,i
+Mutation=0
+original=False
+depth=126
+
+[state_vector]
+[(0.4999999999999999+7.654042494670955e-16j), (-5.273559366969494e-16+3.0616169978683097e-17j), (3.885780586188048e-16-3.0616169978683343e-17j), (0.5000000000000002+7.654042494670961e-16j), 0j, 0j, 0j, 0j, (5.551115123125783e-17+3.0616169978683886e-17j), (-0.4999999999999998-8.266365894244632e-16j), (1.1102230246251565e-16+3.061616997868408e-17j), (0.4999999999999999+8.266365894244633e-16j), 0j, 0j, 0j, 0j]
+
+[program_specification]
+0000,0000=0.2499999999999999
+0000,0011=0.2500000000000002
+0000,1001=0.24999999999999978
+0000,1011=0.2499999999999999

@@ -1,0 +1,12 @@
+\begin{tabular}{llllllllllll}
+\toprule
+\textbf{Category} & \textbf{\#Qubits} & \textbf{Depth} & \textbf{Default [s]} & \textbf{Factoring [s]} & \textbf{Random [s]} & \textbf{\%passed (NN) DF} & \textbf{\%equal DF} & \textbf{\%passed (NN) DR} & \textbf{\%equal DR} & \textbf{\%passed (NN) FR} & \textbf{\%equal FR} \\
+\midrule
+              all &           [2, 15] &       [3, 684] &    169.9 $\pm$ 473.7 &        11.8 $\pm$ 61.2 &     15.6 $\pm$ 73.8 &                  93.7/0.0 &                 6.3 &                  93.0/0.0 &                 7.0 &                   3.5/0.0 &                96.5 \\
+             aamp &            [6, 9] &      [30, 684] &    383.1 $\pm$ 503.3 &       33.4 $\pm$ 104.2 &    36.6 $\pm$ 113.5 &                 100.0/0.0 &                 0.0 &                 100.0/0.0 &                 0.0 &                   2.2/0.0 &                97.8 \\
+            qwalk &            [3, 5] &      [14, 154] &        2.9 $\pm$ 4.2 &          1.0 $\pm$ 2.0 &       1.0 $\pm$ 2.1 &                  87.2/0.0 &                12.8 &                  89.7/0.0 &                10.3 &                   5.1/0.0 &                94.9 \\
+              var &            [2, 8] &        [3, 70] &        1.1 $\pm$ 2.1 &          0.2 $\pm$ 0.3 &       0.3 $\pm$ 0.5 &                  90.9/0.0 &                 9.1 &                  86.4/0.0 &                13.6 &                   0.0/0.0 &               100.0 \\
+               gs &           [3, 15] &        [5, 17] &   464.8 $\pm$ 1027.7 &         7.7 $\pm$ 16.7 &    35.1 $\pm$ 100.4 &                 100.0/0.0 &                 0.0 &                 100.0/0.0 &                 0.0 &                  14.3/0.0 &                85.7 \\
+\bottomrule
+\end{tabular}
+

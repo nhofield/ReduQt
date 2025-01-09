@@ -1,0 +1,31 @@
+[program]
+root=/home/noah/runFactored/Experiments/Experiment2/Mutants/var_q8_03_R_A.py
+num_qubit=8
+inputID=0,1,2,3,4,5,6,7
+outputID=0,1,2,3,4,5,6,7
+
+[program_specification_category]
+ps_category=full
+
+[quito_configuration]
+coverage_criterion=IC
+K=40
+M=1
+BUDGET=6000
+confidence_level=0.01
+statistical_test=chi-square test
+
+[reduqt_parameters]
+Basis=i,i,h,h,i,i,i,i
+Mutation=0
+original=False
+depth=17
+
+[state_vector]
+[(0.5-6.123233995736766e-17j), (-0.5-1.5407439555097887e-32j), 2.465190328815662e-32j, (0.4999999999999999+6.123233995736767e-17j), (-1.9626155733547187e-17+3.0616169978683836e-17j), (-1.8746997283273213e-33-3.061616997868383e-17j), (1.1102230246251565e-16+6.123233995736764e-17j), (1.8746997283273213e-33+3.0616169978683824e-17j), 3.0616169978683836e-17j, -3.0616169978683824e-17j, (7.850462293418876e-17+6.123233995736764e-17j), 3.061616997868383e-17j, (-1.962615573354719e-17+3.0814879110195774e-33j), (1.874699728327322e-33+0j), (0.5-1.2246467991473532e-16j), (-1.874699728327322e-33-3.0814879110195774e-33j), 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, (-0+0j), (-0+0j), 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j]
+
+[program_specification]
+00000011,00000000=0.25
+00000011,00000001=0.25
+00000011,00000011=0.2499999999999999
+00000011,00001110=0.25

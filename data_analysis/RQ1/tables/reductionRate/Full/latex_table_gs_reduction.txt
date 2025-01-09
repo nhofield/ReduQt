@@ -1,0 +1,21 @@
+\begin{tabular}{lllllllll}
+\toprule
+\textbf{ID} & \textbf{Category} & \textbf{\#Qubits} & \textbf{Depth} &  \textbf{Factoring [\%]} &     \textbf{Random [\%]} & \textbf{p-value} & $\mathbf{\hat{A}}_{12}$ & \textbf{Magnitude} \\
+\midrule
+ \textbf{0} &       \textbf{gs} &        \textbf{3} &     \textbf{5} &  \textbf{50.0 $\pm$ 0.0} & \textbf{29.5 $\pm$ 24.7} & \textbf{8.0e-13} &          \textbf{0.705} &       \textbf{(M)} \\
+ \textbf{1} &       \textbf{gs} &        \textbf{4} &     \textbf{6} &  \textbf{50.0 $\pm$ 0.0} & \textbf{35.5 $\pm$ 22.8} & \textbf{6.3e-09} &          \textbf{0.645} &       \textbf{(S)} \\
+ \textbf{2} &       \textbf{gs} &        \textbf{5} &     \textbf{7} & \textbf{67.8 $\pm$ 11.4} & \textbf{59.5 $\pm$ 16.2} & \textbf{7.7e-05} &          \textbf{0.639} &       \textbf{(S)} \\
+ \textbf{3} &       \textbf{gs} &        \textbf{6} &     \textbf{8} &  \textbf{75.0 $\pm$ 0.0} & \textbf{68.2 $\pm$ 11.2} & \textbf{2.5e-08} &          \textbf{0.635} &       \textbf{(S)} \\
+          4 &                gs &                 7 &              9 &           80.2 $\pm$ 6.2 &           80.0 $\pm$ 6.9 &           0.9353 &                   0.503 &                (N) \\
+ \textbf{5} &       \textbf{gs} &        \textbf{8} &    \textbf{10} &  \textbf{86.0 $\pm$ 4.1} &  \textbf{79.4 $\pm$ 6.7} & \textbf{1.0e-13} &          \textbf{0.756} &       \textbf{(L)} \\
+ \textbf{6} &       \textbf{gs} &        \textbf{9} &    \textbf{11} &  \textbf{89.6 $\pm$ 3.0} &  \textbf{83.9 $\pm$ 5.7} & \textbf{3.9e-15} &          \textbf{0.762} &       \textbf{(L)} \\
+ \textbf{7} &       \textbf{gs} &       \textbf{10} &    \textbf{12} &  \textbf{92.3 $\pm$ 2.6} &  \textbf{85.4 $\pm$ 4.7} & \textbf{1.3e-28} &          \textbf{0.905} &       \textbf{(L)} \\
+ \textbf{8} &       \textbf{gs} &       \textbf{11} &    \textbf{13} &  \textbf{94.2 $\pm$ 1.9} &  \textbf{85.4 $\pm$ 4.7} & \textbf{8.5e-37} &          \textbf{0.983} &       \textbf{(L)} \\
+ \textbf{9} &       \textbf{gs} &       \textbf{12} &    \textbf{14} &  \textbf{95.8 $\pm$ 1.5} &  \textbf{86.1 $\pm$ 3.9} & \textbf{3.3e-39} &            \textbf{1.0} &       \textbf{(L)} \\
+\textbf{10} &       \textbf{gs} &       \textbf{13} &    \textbf{15} &  \textbf{96.8 $\pm$ 1.2} &  \textbf{87.5 $\pm$ 0.0} & \textbf{4.2e-41} &            \textbf{1.0} &       \textbf{(L)} \\
+\textbf{11} &       \textbf{gs} &       \textbf{14} &    \textbf{16} &  \textbf{97.6 $\pm$ 0.9} &  \textbf{90.3 $\pm$ 3.1} & \textbf{3.3e-36} &          \textbf{0.998} &       \textbf{(L)} \\
+\textbf{12} &       \textbf{gs} &       \textbf{15} &    \textbf{17} &  \textbf{98.2 $\pm$ 0.7} &  \textbf{89.9 $\pm$ 3.1} & \textbf{3.3e-37} &            \textbf{1.0} &       \textbf{(L)} \\
+\textbf{13} &       \textbf{gs} &       \textbf{16} &    \textbf{18} &  \textbf{98.7 $\pm$ 0.6} &  \textbf{90.1 $\pm$ 3.1} & \textbf{1.8e-36} &            \textbf{1.0} &       \textbf{(L)} \\
+\bottomrule
+\end{tabular}
+

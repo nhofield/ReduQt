@@ -1,0 +1,22 @@
+def run(qc):
+    qc.x(0)
+    qc.h(2)
+    qc.x(3)
+    qc.h(4)
+    qc.z(4)
+    qc.x(1)
+    qc.cx(1, 2)
+    qc.x(0)
+    qc.cx(0, 1)
+    qc.mcx( [0,1], 2)
+    qc.mcx( [2, 3, 4], 5)
+    qc.mcx( [2, 3], 4 )
+    qc.cx( 2, 3 )
+    qc.mcx( [0, 1], 2 )
+    qc.cx( 0, 1 )
+    qc.x(0)
+    qc.cx(1, 2)
+    qc.x(1)
+
+    # measurement basis i,i,i,i,i,i
+    qc.measure([0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5])

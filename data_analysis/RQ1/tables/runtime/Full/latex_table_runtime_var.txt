@@ -1,0 +1,51 @@
+\begin{tabular}{lllllllllll}
+\toprule
+\textbf{ID} & \textbf{Category} & \textbf{\#Qubits} & \textbf{Depth} & \textbf{\#T} & \textbf{f(\#Q)} &   \textbf{Factoring [ms]} &      \textbf{Random [ms]} & \textbf{p-value} & $\mathbf{\hat{A}}_{12}$ & \textbf{Magnitude} \\
+\midrule
+ \textbf{0} &      \textbf{var} &        \textbf{2} &     \textbf{6} &   \textbf{3} &      \textbf{3} &  \textbf{24.4 $\pm$ 33.2} &  \textbf{22.8 $\pm$ 25.5} & \textbf{7.1e-27} &          \textbf{0.939} &       \textbf{(L)} \\
+ \textbf{1} &      \textbf{var} &        \textbf{2} &     \textbf{6} &   \textbf{3} &      \textbf{3} &   \textbf{21.8 $\pm$ 4.0} &   \textbf{20.7 $\pm$ 2.8} & \textbf{1.1e-25} &          \textbf{0.929} &       \textbf{(L)} \\
+ \textbf{2} &      \textbf{var} &        \textbf{2} &     \textbf{7} &   \textbf{3} &      \textbf{3} &   \textbf{21.3 $\pm$ 4.4} &   \textbf{20.4 $\pm$ 0.6} & \textbf{2.3e-15} &          \textbf{0.824} &       \textbf{(L)} \\
+ \textbf{3} &      \textbf{var} &        \textbf{2} &     \textbf{7} &   \textbf{3} &      \textbf{3} &   \textbf{21.4 $\pm$ 0.6} &   \textbf{20.7 $\pm$ 3.5} & \textbf{9.4e-28} &          \textbf{0.947} &       \textbf{(L)} \\
+ \textbf{4} &      \textbf{var} &        \textbf{3} &     \textbf{3} &   \textbf{6} &      \textbf{6} &   \textbf{28.9 $\pm$ 2.7} &   \textbf{28.1 $\pm$ 0.8} & \textbf{3.1e-09} &          \textbf{0.743} &       \textbf{(L)} \\
+ \textbf{5} &      \textbf{var} &        \textbf{3} &     \textbf{4} &   \textbf{6} &      \textbf{6} &   \textbf{29.8 $\pm$ 1.3} &   \textbf{29.3 $\pm$ 1.0} & \textbf{0.00555} &          \textbf{0.614} &       \textbf{(S)} \\
+ \textbf{6} &      \textbf{var} &        \textbf{3} &     \textbf{3} &   \textbf{6} &      \textbf{6} &   \textbf{30.2 $\pm$ 5.4} &   \textbf{29.4 $\pm$ 2.8} & \textbf{4.2e-07} &          \textbf{0.707} &       \textbf{(M)} \\
+ \textbf{7} &      \textbf{var} &        \textbf{3} &     \textbf{4} &   \textbf{6} &      \textbf{6} &   \textbf{29.7 $\pm$ 3.1} &   \textbf{29.0 $\pm$ 0.8} & \textbf{3.1e-07} &           \textbf{0.71} &       \textbf{(M)} \\
+          8 &               var &                 3 &              4 &            6 &               6 &            27.7 $\pm$ 1.9 &            28.1 $\pm$ 3.1 &          0.76936 &                   0.488 &                (N) \\
+          9 &               var &                 3 &              4 &            6 &               6 &            29.0 $\pm$ 4.1 &            28.9 $\pm$ 1.7 &          0.22978 &                   0.451 &                (N) \\
+\textbf{10} &      \textbf{var} &        \textbf{3} &     \textbf{5} &   \textbf{6} &      \textbf{6} &   \textbf{29.5 $\pm$ 1.9} &   \textbf{29.3 $\pm$ 1.4} & \textbf{0.00936} &          \textbf{0.606} &       \textbf{(S)} \\
+\textbf{11} &      \textbf{var} &        \textbf{3} &     \textbf{5} &   \textbf{6} &      \textbf{6} &   \textbf{29.5 $\pm$ 3.2} &   \textbf{29.1 $\pm$ 3.2} & \textbf{0.00209} &          \textbf{0.626} &       \textbf{(S)} \\
+         12 &               var &                 4 &             69 &            9 &              10 &            87.8 $\pm$ 5.3 &            88.0 $\pm$ 5.8 &          0.90664 &                   0.495 &                (N) \\
+\textbf{13} &      \textbf{var} &        \textbf{4} &    \textbf{70} &  \textbf{10} &     \textbf{10} &   \textbf{93.0 $\pm$ 5.9} &   \textbf{91.7 $\pm$ 5.1} & \textbf{2.3e-14} &          \textbf{0.812} &       \textbf{(L)} \\
+\textbf{14} &      \textbf{var} &        \textbf{4} &    \textbf{70} &  \textbf{10} &     \textbf{10} &   \textbf{93.1 $\pm$ 5.7} &   \textbf{91.8 $\pm$ 5.6} & \textbf{7.1e-13} &          \textbf{0.794} &       \textbf{(L)} \\
+\textbf{15} &      \textbf{var} &        \textbf{4} &    \textbf{70} &  \textbf{10} &     \textbf{10} &   \textbf{93.0 $\pm$ 5.1} &   \textbf{92.0 $\pm$ 5.6} & \textbf{2.2e-16} &          \textbf{0.836} &       \textbf{(L)} \\
+         16 &               var &                 4 &             11 &            9 &              10 &            44.4 $\pm$ 4.6 &            44.2 $\pm$ 3.5 &           0.1949 &                   0.553 &                (N) \\
+         17 &               var &                 4 &             11 &            9 &              10 &            44.3 $\pm$ 4.0 &            44.3 $\pm$ 3.2 &            0.869 &                   0.507 &                (N) \\
+         18 &               var &                 4 &             12 &            9 &              10 &            44.2 $\pm$ 4.1 &            44.5 $\pm$ 3.6 &          0.61044 &                   0.521 &                (N) \\
+         19 &               var &                 4 &             12 &            9 &              10 &            44.0 $\pm$ 4.5 &            44.4 $\pm$ 3.9 &            0.435 &                   0.468 &                (N) \\
+\textbf{20} &      \textbf{var} &        \textbf{5} &    \textbf{11} &   \textbf{9} &     \textbf{15} &   \textbf{43.8 $\pm$ 2.6} &   \textbf{46.5 $\pm$ 2.9} & \textbf{1.9e-30} &          \textbf{0.031} &       \textbf{(L)} \\
+\textbf{21} &      \textbf{var} &        \textbf{5} &    \textbf{11} &   \textbf{9} &     \textbf{15} &   \textbf{43.9 $\pm$ 1.7} &   \textbf{47.0 $\pm$ 2.1} & \textbf{2.3e-31} &          \textbf{0.023} &       \textbf{(L)} \\
+\textbf{22} &      \textbf{var} &        \textbf{5} &    \textbf{12} &   \textbf{9} &     \textbf{15} &   \textbf{43.9 $\pm$ 0.7} &   \textbf{47.1 $\pm$ 2.2} & \textbf{7.4e-32} &          \textbf{0.019} &       \textbf{(L)} \\
+\textbf{23} &      \textbf{var} &        \textbf{5} &    \textbf{12} &   \textbf{9} &     \textbf{15} &   \textbf{44.0 $\pm$ 1.9} &   \textbf{46.8 $\pm$ 2.2} & \textbf{8.9e-31} &          \textbf{0.028} &       \textbf{(L)} \\
+\textbf{24} &      \textbf{var} &        \textbf{6} &     \textbf{8} &   \textbf{6} &     \textbf{21} &   \textbf{32.6 $\pm$ 2.6} &   \textbf{36.0 $\pm$ 2.1} & \textbf{1.5e-31} &          \textbf{0.022} &       \textbf{(L)} \\
+\textbf{25} &      \textbf{var} &        \textbf{6} &     \textbf{8} &  \textbf{11} &     \textbf{21} &   \textbf{49.7 $\pm$ 2.9} &   \textbf{53.9 $\pm$ 3.3} & \textbf{1.3e-29} &          \textbf{0.037} &       \textbf{(L)} \\
+\textbf{26} &      \textbf{var} &        \textbf{6} &     \textbf{8} &   \textbf{6} &     \textbf{21} &   \textbf{33.2 $\pm$ 2.8} &   \textbf{37.3 $\pm$ 1.8} & \textbf{6.0e-32} &          \textbf{0.019} &       \textbf{(L)} \\
+\textbf{27} &      \textbf{var} &        \textbf{6} &     \textbf{8} &   \textbf{6} &     \textbf{21} &   \textbf{32.7 $\pm$ 1.8} &   \textbf{36.9 $\pm$ 2.7} & \textbf{4.9e-31} &          \textbf{0.026} &       \textbf{(L)} \\
+\textbf{28} &      \textbf{var} &        \textbf{6} &    \textbf{14} &  \textbf{11} &     \textbf{21} &   \textbf{50.3 $\pm$ 3.6} &   \textbf{54.7 $\pm$ 3.0} & \textbf{6.6e-30} &          \textbf{0.035} &       \textbf{(L)} \\
+\textbf{29} &      \textbf{var} &        \textbf{6} &    \textbf{14} &  \textbf{11} &     \textbf{21} &   \textbf{49.6 $\pm$ 2.7} &   \textbf{54.3 $\pm$ 2.5} & \textbf{1.8e-30} &           \textbf{0.03} &       \textbf{(L)} \\
+\textbf{30} &      \textbf{var} &        \textbf{6} &    \textbf{14} &   \textbf{6} &     \textbf{21} &   \textbf{33.3 $\pm$ 2.3} &   \textbf{37.5 $\pm$ 2.2} & \textbf{1.8e-29} &          \textbf{0.039} &       \textbf{(L)} \\
+\textbf{31} &      \textbf{var} &        \textbf{6} &    \textbf{14} &  \textbf{11} &     \textbf{21} &   \textbf{50.9 $\pm$ 3.9} &   \textbf{55.3 $\pm$ 3.3} & \textbf{2.5e-27} &          \textbf{0.057} &       \textbf{(L)} \\
+\textbf{32} &      \textbf{var} &        \textbf{6} &    \textbf{11} &   \textbf{6} &     \textbf{21} &   \textbf{34.0 $\pm$ 1.6} &   \textbf{38.0 $\pm$ 1.9} & \textbf{1.0e-31} &           \textbf{0.02} &       \textbf{(L)} \\
+\textbf{33} &      \textbf{var} &        \textbf{6} &    \textbf{12} &   \textbf{6} &     \textbf{21} &   \textbf{34.6 $\pm$ 2.5} &   \textbf{39.2 $\pm$ 3.2} & \textbf{1.3e-30} &          \textbf{0.029} &       \textbf{(L)} \\
+\textbf{34} &      \textbf{var} &        \textbf{6} &    \textbf{12} &   \textbf{6} &     \textbf{21} &   \textbf{33.9 $\pm$ 4.5} &   \textbf{37.7 $\pm$ 2.2} & \textbf{2.0e-30} &          \textbf{0.031} &       \textbf{(L)} \\
+\textbf{35} &      \textbf{var} &        \textbf{6} &    \textbf{12} &   \textbf{6} &     \textbf{21} &   \textbf{34.1 $\pm$ 1.7} &   \textbf{38.5 $\pm$ 2.6} & \textbf{8.3e-32} &           \textbf{0.02} &       \textbf{(L)} \\
+\textbf{36} &      \textbf{var} &        \textbf{7} &    \textbf{41} &  \textbf{22} &     \textbf{28} &  \textbf{127.2 $\pm$ 5.2} &  \textbf{129.5 $\pm$ 5.8} & \textbf{2.3e-12} &          \textbf{0.213} &       \textbf{(L)} \\
+\textbf{37} &      \textbf{var} &        \textbf{7} &    \textbf{41} &  \textbf{13} &     \textbf{28} &   \textbf{87.6 $\pm$ 8.3} &   \textbf{93.7 $\pm$ 5.6} & \textbf{3.4e-26} &          \textbf{0.067} &       \textbf{(L)} \\
+\textbf{38} &      \textbf{var} &        \textbf{7} &    \textbf{41} &  \textbf{13} &     \textbf{28} &   \textbf{86.3 $\pm$ 5.0} &   \textbf{93.7 $\pm$ 5.0} & \textbf{2.4e-27} &          \textbf{0.057} &       \textbf{(L)} \\
+\textbf{39} &      \textbf{var} &        \textbf{7} &    \textbf{41} &  \textbf{22} &     \textbf{28} &  \textbf{128.6 $\pm$ 5.8} &  \textbf{131.6 $\pm$ 6.9} & \textbf{2.2e-18} &          \textbf{0.142} &       \textbf{(L)} \\
+\textbf{40} &      \textbf{var} &        \textbf{8} &    \textbf{17} &  \textbf{21} &     \textbf{36} & \textbf{106.1 $\pm$ 16.8} & \textbf{116.2 $\pm$ 15.6} & \textbf{3.3e-07} &          \textbf{0.291} &       \textbf{(M)} \\
+\textbf{41} &      \textbf{var} &        \textbf{8} &    \textbf{17} &  \textbf{21} &     \textbf{36} & \textbf{107.4 $\pm$ 16.6} & \textbf{117.4 $\pm$ 16.0} & \textbf{7.3e-07} &          \textbf{0.297} &       \textbf{(M)} \\
+\textbf{42} &      \textbf{var} &        \textbf{8} &    \textbf{17} &  \textbf{21} &     \textbf{36} & \textbf{105.8 $\pm$ 16.5} & \textbf{115.6 $\pm$ 15.5} & \textbf{2.7e-07} &          \textbf{0.289} &       \textbf{(M)} \\
+\textbf{43} &      \textbf{var} &        \textbf{8} &    \textbf{17} &  \textbf{21} &     \textbf{36} & \textbf{108.4 $\pm$ 16.0} & \textbf{118.3 $\pm$ 16.7} & \textbf{8.8e-08} &          \textbf{0.281} &       \textbf{(M)} \\
+\bottomrule
+\end{tabular}
+

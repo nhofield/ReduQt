@@ -1,0 +1,30 @@
+[program]
+root=/home/complexse/Desktop/noah/Main/Reduqt/MasterListPrograms/var_q2_00_R_A.py
+num_qubit=2
+inputID=0,1
+outputID=0,1
+
+[program_specification_category]
+ps_category=full
+
+[quito_configuration]
+coverage_criterion=IC
+K=300
+M=10
+BUDGET=6000
+confidence_level=0.05
+statistical_test=chi-square test
+
+[reduqt_parameters]
+Basis=i,h
+Mutation=0
+original=False
+depth=2
+
+[state_vector]
+[(0.6532814824381887+0.27059805007309823j), (0.4619397662556434-0.1913417161825453j), (-5.551115123125783e-17+2.7755575615628914e-17j), (-0.1913417161825453-0.4619397662556433j)]
+
+[program_specification]
+00,00=0.5000000000000003
+00,01=0.2500000000000002
+00,11=0.2500000000000001

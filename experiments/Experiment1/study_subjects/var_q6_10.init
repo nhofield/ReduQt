@@ -1,0 +1,31 @@
+[program]
+root=/home/noah/runFactored/Experiments/Experiment2/Mutants/var_q6_10_R.py
+num_qubit=6
+inputID=0,1,2,3,4,5
+outputID=0,1,2,3,4,5
+
+[program_specification_category]
+ps_category=full
+
+[quito_configuration]
+coverage_criterion=IC
+K=40
+M=1
+BUDGET=6000
+confidence_level=0.01
+statistical_test=chi-square test
+
+[reduqt_parameters]
+Basis=identity
+Mutation=0
+original=True
+depth=14
+
+[state_vector]
+[0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, (0.5000000000000001+0j), 0j, 0j, 0j, (-0.5-6.123233995736766e-17j), 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, 0j, (-0.5-6.123233995736766e-17j), 0j, 0j, 0j, (0.4999999999999999+1.224646799147353e-16j), 0j]
+
+[program_specification]
+000000,010010=0.2500000000000001
+000000,010110=0.25
+000000,111010=0.25
+000000,111110=0.2499999999999999
