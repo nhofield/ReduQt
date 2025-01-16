@@ -5,7 +5,7 @@ Faster and Better Quantum Software Testing through Specification Reduction and P
 ### **Keywords**: Test case reduction, Quantum software testing, Program specification, Projective measurements
 
 This repository contains:
-
+ 
 - **[experiments/](./experiments/)** - all related algorithms and source code for conducting the experiments:
 - **[results/](./results/)** - all the raw data and postprocessed results from the experiments:
 - **[data_analysis/](./data_analysis/)** - the analysis scripts and source files for creating figures and tables:
